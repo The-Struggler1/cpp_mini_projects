@@ -1,0 +1,20 @@
+﻿
+
+#include <iostream>
+#include <cmath>
+using namespace std;
+int main()
+{
+	float D;
+	cout << "Please enter the diameter of your circle : \n";
+	cin >> D;
+	float Area = Pi * ceil(pow(D, 2)) / 4;
+	cout << "The area of your circle is " << Area << endl;
+
+
+
+
+
+	return 0;
+}
+

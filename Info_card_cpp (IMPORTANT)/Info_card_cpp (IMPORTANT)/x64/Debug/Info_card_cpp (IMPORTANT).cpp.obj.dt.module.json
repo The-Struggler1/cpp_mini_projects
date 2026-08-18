@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Info_card_cpp (IMPORTANT).obj",
+            "outputs": [
+                "x64\\Debug\\Info_card_cpp (IMPORTANT).cpp.obj.dt.module.json",
+                "x64\\Debug\\Info_card_cpp (IMPORTANT).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

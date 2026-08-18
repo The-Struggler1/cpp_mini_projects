@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1CDA6F-32EA-4D11-9962-8A533B2CA1F0}|cpp_Math_functions\\cpp_Math_functions.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_functions\\cpp_Math_functions\\cpp_Math_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B1CDA6F-32EA-4D11-9962-8A533B2CA1F0}|cpp_Math_functions\\cpp_Math_functions.vcxproj|solutionrelative:cpp_Math_functions\\cpp_Math_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpp_Math_functions.cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_functions\\cpp_Math_functions\\cpp_Math_functions.cpp",
+              "RelativeDocumentMoniker": "cpp_Math_functions\\cpp_Math_functions.cpp",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_functions\\cpp_Math_functions\\cpp_Math_functions.cpp",
+              "RelativeToolTip": "cpp_Math_functions\\cpp_Math_functions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-07T15:19:16.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_Passorfail_problem8/cpp_Passorfail_problem8.vcxproj" />
+</Solution>

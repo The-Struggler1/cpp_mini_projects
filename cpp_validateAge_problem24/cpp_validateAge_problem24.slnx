@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_validateAge_problem24/cpp_validateAge_problem24.vcxproj" />
+</Solution>

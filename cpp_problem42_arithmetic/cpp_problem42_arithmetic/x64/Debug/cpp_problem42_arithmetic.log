@@ -1,0 +1,3 @@
+﻿  cpp_problem42_arithmetic.cpp
+C:\Users\Omar Hamdan\source\repos\cpp_problem42_arithmetic\cpp_problem42_arithmetic\cpp_problem42_arithmetic.cpp(17,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  cpp_problem42_arithmetic.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_problem42_arithmetic\x64\Debug\cpp_problem42_arithmetic.exe

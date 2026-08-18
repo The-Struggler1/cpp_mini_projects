@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_simplecalc_problem36/cpp_simplecalc_problem36.vcxproj" Id="f2ace970-27db-49d5-b36c-3462b6710bbd" />
+</Solution>

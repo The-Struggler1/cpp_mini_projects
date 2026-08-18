@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_TotalSales_commision_problem34/cpp_TotalSales_commision_problem34.vcxproj" />
+</Solution>

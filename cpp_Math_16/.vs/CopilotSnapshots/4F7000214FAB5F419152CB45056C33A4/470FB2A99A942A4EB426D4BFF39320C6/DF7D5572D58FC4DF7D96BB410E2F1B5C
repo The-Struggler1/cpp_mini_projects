@@ -1,0 +1,16 @@
+﻿
+
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+	int D, A;
+	cout << "Please enter diameter : \n";
+	cin >> D;
+	cout << "Please enter Area : \n";
+	cin >> A;
+	cout << " the Area = "
+}
+

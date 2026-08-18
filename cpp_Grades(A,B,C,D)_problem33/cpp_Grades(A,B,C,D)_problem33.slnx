@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_Grades(A,B,C,D)_problem33/cpp_Grades(A,B,C,D)_problem33.vcxproj" />
+</Solution>

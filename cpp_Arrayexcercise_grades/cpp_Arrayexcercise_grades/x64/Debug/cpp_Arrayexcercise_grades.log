@@ -1,0 +1,3 @@
+﻿  cpp_Arrayexcercise_grades.cpp
+C:\Users\Omar Hamdan\source\repos\cpp_Arrayexcercise_grades\cpp_Arrayexcercise_grades\cpp_Arrayexcercise_grades.cpp(18,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  cpp_Arrayexcercise_grades.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_Arrayexcercise_grades\x64\Debug\cpp_Arrayexcercise_grades.exe

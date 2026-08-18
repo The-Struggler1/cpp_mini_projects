@@ -1,0 +1,4 @@
+﻿  cpp_problem19(arithmetic).cpp
+C:\Users\Omar Hamdan\source\repos\cpp_problem19(arithmetic)\cpp_problem19(arithmetic)\cpp_problem19(arithmetic).cpp(9,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Omar Hamdan\source\repos\cpp_problem19(arithmetic)\cpp_problem19(arithmetic)\cpp_problem19(arithmetic).cpp(13,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  cpp_problem19(arithmetic).vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_problem19(arithmetic)\x64\Debug\cpp_problem19(arithmetic).exe

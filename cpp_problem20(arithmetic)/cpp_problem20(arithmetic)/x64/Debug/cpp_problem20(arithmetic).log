@@ -1,0 +1,3 @@
+﻿  cpp_problem20(arithmetic).cpp
+C:\Users\Omar Hamdan\source\repos\cpp_problem20(arithmetic)\cpp_problem20(arithmetic)\cpp_problem20(arithmetic).cpp(7,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  cpp_problem20(arithmetic).vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_problem20(arithmetic)\x64\Debug\cpp_problem20(arithmetic).exe

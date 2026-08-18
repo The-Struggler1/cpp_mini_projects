@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_AvgPassFail_problem11/cpp_AvgPassFail_problem11.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_atmPincode_problem49/cpp_atmPincode_problem49.vcxproj" />
+</Solution>

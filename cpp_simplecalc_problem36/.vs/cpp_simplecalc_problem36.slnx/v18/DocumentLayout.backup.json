@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_simplecalc_problem36\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ACE970-27DB-49D5-B36C-3462B6710BBD}|cpp_simplecalc_problem36\\cpp_simplecalc_problem36.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_simplecalc_problem36\\cpp_simplecalc_problem36\\cpp_simplecalc_problem36.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2ACE970-27DB-49D5-B36C-3462B6710BBD}|cpp_simplecalc_problem36\\cpp_simplecalc_problem36.vcxproj|solutionrelative:cpp_simplecalc_problem36\\cpp_simplecalc_problem36.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpp_simplecalc_problem36.cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_simplecalc_problem36\\cpp_simplecalc_problem36\\cpp_simplecalc_problem36.cpp",
+              "RelativeDocumentMoniker": "cpp_simplecalc_problem36\\cpp_simplecalc_problem36.cpp",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_simplecalc_problem36\\cpp_simplecalc_problem36\\cpp_simplecalc_problem36.cpp",
+              "RelativeToolTip": "cpp_simplecalc_problem36\\cpp_simplecalc_problem36.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-13T11:46:26.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

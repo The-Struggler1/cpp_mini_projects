@@ -1,0 +1,4 @@
+﻿  cpp_problem40_arithmetic.cpp
+C:\Users\Omar Hamdan\source\repos\cpp_problem40_arithmetic\cpp_problem40_arithmetic\cpp_problem40_arithmetic.cpp(7,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Omar Hamdan\source\repos\cpp_problem40_arithmetic\cpp_problem40_arithmetic\cpp_problem40_arithmetic.cpp(7,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  cpp_problem40_arithmetic.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_problem40_arithmetic\x64\Debug\cpp_problem40_arithmetic.exe

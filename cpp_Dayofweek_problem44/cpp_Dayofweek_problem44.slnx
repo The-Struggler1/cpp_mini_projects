@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_Dayofweek_problem44/cpp_Dayofweek_problem44.vcxproj" Id="b31fc473-1136-4b4b-8b12-7c43ee3ac439" />
+</Solution>

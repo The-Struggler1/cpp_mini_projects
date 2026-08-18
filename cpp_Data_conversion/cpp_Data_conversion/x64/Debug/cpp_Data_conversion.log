@@ -1,0 +1,4 @@
+﻿  cpp_Data_conversion.cpp
+C:\Users\Omar Hamdan\source\repos\cpp_Data_conversion\cpp_Data_conversion\cpp_Data_conversion.cpp(13,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Omar Hamdan\source\repos\cpp_Data_conversion\cpp_Data_conversion\cpp_Data_conversion.cpp(15,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  cpp_Data_conversion.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_Data_conversion\x64\Debug\cpp_Data_conversion.exe

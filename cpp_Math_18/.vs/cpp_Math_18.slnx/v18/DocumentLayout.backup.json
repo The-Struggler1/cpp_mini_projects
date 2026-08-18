@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CAEE23-2085-4D8D-9692-DD3378F70ECB}|cpp_Math_18\\cpp_Math_18.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_18\\cpp_Math_18\\cpp_Math_18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6CAEE23-2085-4D8D-9692-DD3378F70ECB}|cpp_Math_18\\cpp_Math_18.vcxproj|solutionrelative:cpp_Math_18\\cpp_Math_18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpp_Math_18.cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_18\\cpp_Math_18\\cpp_Math_18.cpp",
+              "RelativeDocumentMoniker": "cpp_Math_18\\cpp_Math_18.cpp",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_18\\cpp_Math_18\\cpp_Math_18.cpp*",
+              "RelativeToolTip": "cpp_Math_18\\cpp_Math_18.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-08T02:52:35.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

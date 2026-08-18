@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_problem22_arithmetic/cpp_problem22_arithmetic.vcxproj" Id="4a73482b-b9b3-4420-85b7-8282a5b30258" />
+</Solution>

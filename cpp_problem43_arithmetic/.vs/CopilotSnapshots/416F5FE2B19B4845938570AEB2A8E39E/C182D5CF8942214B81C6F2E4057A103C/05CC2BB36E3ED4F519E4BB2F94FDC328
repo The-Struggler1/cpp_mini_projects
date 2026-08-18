@@ -1,0 +1,23 @@
+﻿
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout << "Enter amount of seconds \n";
+    int Total_seconds;
+    cin >> Total_seconds;
+    int seconds_per_day = 24 * 60 * 60;
+    int seconds_per_hour = 60 * 60;
+    int seconds_per_minute = 60;
+    int Number_of_days = floor(Total_seconds / seconds_per_day);
+    float remainder = Total_seconds % seconds_per_day;
+    int Number_of_hours = floor(remainder / seconds_per_hour);
+    float remainder = (Total_seconds % seconds_per_day) % seconds_per_hour;
+    int number_of_minute = floor(((Total_seconds % seconds_per_day) % seconds_per_hour)) / seconds_per_minute;
+    float remainder = (Total_seconds % seconds_per_day) % seconds_per_hour% seconds_per_minute;
+    int Number_of_seconds = remainder;
+
+    cout << Number_of_days << ":" << Number_of_hours << ":" << number_of_minute << ":" << Number_of_seconds;
+}
+
