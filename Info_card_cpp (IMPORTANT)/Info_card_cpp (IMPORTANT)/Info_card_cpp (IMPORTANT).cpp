@@ -13,7 +13,32 @@ struct strInfo {
     enum Socialstatus { Married, Single };
     string socialstatus;
 };
+void ReadArrayData(int Arr1[100], int& Length)
+{
+    cout << "How Many Cards do you want to enter? 1 to 100?\n";
+    cin >> Length;
 
+    for (int i = 0; i <= Length - 1; i++)
+    {
+
+        cout << "Please enter Number " << i + 1 << endl;
+        cin >> Arr1[i];
+
+    }
+
+}
+void PrintArrayData(int Arr1[100], int Length)
+{
+    cout << "\nArray Data...\n";
+
+    for (int i = 0; i <= Length - 1; i++)
+    {
+
+        cout << "Number [" << i + 1 << "] : " << Arr1[i] << endl;
+
+    }
+
+}
 
 void readinfo(strInfo& Info) {
     cout << "Please enter your First name: \n";
@@ -44,6 +69,9 @@ void PrintInfo(strInfo& Info) {
 
 int main()
 {
+    int Arr1[100], Length = 0;
+    ReadArrayData(Arr1, Length);
+    PrintArrayData(Arr1, Length);
     strInfo Person1Info;
     readinfo(Person1Info);
     PrintInfo(Person1Info);

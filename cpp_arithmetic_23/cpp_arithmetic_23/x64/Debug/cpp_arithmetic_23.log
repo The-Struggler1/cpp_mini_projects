@@ -1,5 +1,4 @@
 ﻿  cpp_arithmetic_23.cpp
-C:\Users\Omar Hamdan\source\repos\cpp_arithmetic_23\cpp_arithmetic_23\cpp_arithmetic_23.cpp(8,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\Omar Hamdan\source\repos\cpp_arithmetic_23\cpp_arithmetic_23\cpp_arithmetic_23.cpp(8,32): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Omar Hamdan\source\repos\cpp_arithmetic_23\cpp_arithmetic_23\cpp_arithmetic_23.cpp(9,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  cpp_arithmetic_23.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_arithmetic_23\x64\Debug\cpp_arithmetic_23.exe
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_arithmetic_23\cpp_arithmetic_23\cpp_arithmetic_23.cpp(16,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_arithmetic_23\cpp_arithmetic_23\cpp_arithmetic_23.cpp(17,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  cpp_arithmetic_23.vcxproj -> C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_arithmetic_23\x64\Debug\cpp_arithmetic_23.exe

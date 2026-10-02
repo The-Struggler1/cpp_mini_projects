@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp_atmPincode_problem49/cpp_atmPincode_problem49.vcxproj" />
+  <Project Path="cpp_atmPincode_problem49/cpp_atmPincode_problem49.vcxproj" Id="02b04c81-f9c8-423f-84b5-f1be1aea88d5" />
 </Solution>

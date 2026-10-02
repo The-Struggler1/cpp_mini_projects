@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_logical_operators\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC1E94F-5F28-482F-9BB5-07D1FD6188D8}|cpp_logical_operators\\cpp_logical_operators.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_logical_operators\\cpp_logical_operators\\cpp_logical_operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBC1E94F-5F28-482F-9BB5-07D1FD6188D8}|cpp_logical_operators\\cpp_logical_operators.vcxproj|solutionrelative:cpp_logical_operators\\cpp_logical_operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "cpp_logical_operators.cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_logical_operators\\cpp_logical_operators\\cpp_logical_operators.cpp",
-              "RelativeDocumentMoniker": "cpp_logical_operators\\cpp_logical_operators.cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_logical_operators\\cpp_logical_operators\\cpp_logical_operators.cpp*",
-              "RelativeToolTip": "cpp_logical_operators\\cpp_logical_operators.cpp*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-07T14:21:22.427Z",
-              "EditorCaption": ""
             }
           ]
         }

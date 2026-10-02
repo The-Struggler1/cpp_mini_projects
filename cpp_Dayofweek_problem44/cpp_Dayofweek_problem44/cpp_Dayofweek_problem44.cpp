@@ -1,36 +1,49 @@
 
 #include <iostream>
+#include <string>
+
 using namespace std;
+
+enum enDayOfWeek { Sat = 1, Sun = 2, Mon = 3, Tue = 4, Wed = 5, Thu = 6, Fri = 7 };
+
+int ReadNumberInRange(string Message, int From, int To)
+{
+	int Number = 0;
+	do
+	{
+		cout << Message << endl;
+		cin >> Number;
+	} while (Number < From || Number > To);
+	return Number;
+	
+}
+enDayOfWeek ReadDayOfWeek()
+{
+	return (enDayOfWeek)ReadNumberInRange("Please enter Day Number ( Sat = 1, Sun = 2, Mon = 3, Tue = 4, Wed = 5, Thu = 6, Fri = 7)", 1, 7);
+}
+string GetDayOfWeek(enDayOfWeek Day)
+{
+	switch (Day)
+	{
+	case enDayOfWeek::Sat:
+		return "Saturday";
+	case enDayOfWeek::Sun:
+		return "Sunday";
+	case enDayOfWeek::Mon:
+		return "Monday";
+	case enDayOfWeek::Tue:
+		return "Tuesday";
+	case enDayOfWeek::Wed:
+		return "Wednesday";
+	case enDayOfWeek::Thu:
+		return "Thursday";
+	case enDayOfWeek::Fri:
+		return "Friday";
+	default:
+		return "Wrong Number";
+	}
+}
 int main()
 {
-	int A;
-	cout << "Please enter a number : \n";
-	cin >> A;
-	switch (A)
-	{
-	case 1:
-		cout << "Sunday" << endl;
-		break;
-	case 2:
-		cout << "Monday" << endl;
-		break;
-	case 3:
-		cout << "Tuesday" << endl;
-		break;
-	case 4:
-		cout << "Wednesday" << endl;
-		break;
-	case 5:
-		cout << "Thursday" << endl;
-		break;
-	case 6:
-		cout << "Friday" << endl;
-		break;
-	case 7:
-		cout << "Saturday" << endl;
-		break;
-	default:
-		cout << "Wrong Number" << endl;
-		break;
-	}
+	cout << GetDayOfWeek(ReadDayOfWeek()) << endl;
 }

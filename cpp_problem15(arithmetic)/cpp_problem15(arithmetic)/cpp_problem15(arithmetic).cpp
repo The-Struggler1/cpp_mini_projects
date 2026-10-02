@@ -3,23 +3,28 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
-int RecAreaFunction(int length, int width) {
-    
-    return length * width;
-};
-
-
-
-
+void ReadNumbers(float& length, float& Width)
+{
+	cout << "Enter the length: ";
+	cin >> length;
+	cout << "Enter the width: ";
+	cin >> Width;
+}
+float CalculateArea(float length, float Width)
+{
+	return length * Width;
+}
+void  DisplayArea(float area)
+{
+	cout << "The area is: " << area << endl;
+}
 
 int main()
 {
    
-    int length, width;
-    cin >> length;
-    cin >> width;
-    cout << RecAreaFunction(length, width) << endl;
+    float length, Width;
+	ReadNumbers(length, Width);
+	DisplayArea(CalculateArea(length, Width));
     return 0;
 }
 

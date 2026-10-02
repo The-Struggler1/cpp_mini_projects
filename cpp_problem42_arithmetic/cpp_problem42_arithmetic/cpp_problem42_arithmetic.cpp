@@ -3,30 +3,45 @@
 #include <cmath>
 #include <string>
 using namespace std;
-void Seconds_to_other() {
-	int days, hours, mins,  seconds;
-	cout << "Input amount of days:\n";
-	cin >> days;
-	cout << "Input amount of hours:\n";
-	cin >> hours;
-	cout << "Input amount of mins:\n";
-	cin >> mins;
-	cout << "Input amount of seconds\n";
-	cin >> seconds;
-
-	float duration_in_seconds = days * 24 * pow(60, 2) + hours * pow(60, 2) + mins * 60 + seconds;
-
-	cout << round(duration_in_seconds);
-
-
-
+struct strTaskDuration
+{
+	int NumberOfDays, NumberOfHours, NumberOfMinutes, NumberOfSeconds;
 };
+int ReadPositiveNumbers(string Message)
+{
+	int Number = 0;
+	do
+	{
+		cout << Message << endl;
+		cin >> Number;
+	} while (Number <= 0);
+	return Number;
+}
+strTaskDuration ReadTaskDuration()
+{
+	strTaskDuration TaskDuration;
+	TaskDuration.NumberOfDays = ReadPositiveNumbers("Please Enter Number Of Days:");
+	TaskDuration.NumberOfHours = ReadPositiveNumbers("Please Enter Number Of Hours:");
+	TaskDuration.NumberOfMinutes = ReadPositiveNumbers("Please Enter Number Of Minutes:");
+	TaskDuration.NumberOfSeconds = ReadPositiveNumbers("Please Enter Number Of Seconds:");
+	return TaskDuration;
+}
+int TaskDurationInSeconds(strTaskDuration TaskDuration)
+{
+	int DurationInSeconds = 0;
+	DurationInSeconds = TaskDuration.NumberOfDays * 24 * 60 * 60;
+	DurationInSeconds += TaskDuration.NumberOfHours * 60 * 60;
+	DurationInSeconds += TaskDuration.NumberOfMinutes * 60;
+	DurationInSeconds += TaskDuration.NumberOfSeconds;
+	return	DurationInSeconds;
+
+}
+
 int main()
 {
 	
-
-	Seconds_to_other();
-
+	cout << "\nTask Duration In Seconds: " << TaskDurationInSeconds(ReadTaskDuration());
+	cout << endl;
 	return 0;
 }
 

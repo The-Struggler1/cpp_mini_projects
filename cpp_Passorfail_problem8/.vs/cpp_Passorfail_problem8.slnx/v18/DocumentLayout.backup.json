@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Passorfail_problem8\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B386E3DF-224A-4DF9-B0CF-5E90988A8B08}|cpp_Passorfail_problem8\\cpp_Passorfail_problem8.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Passorfail_problem8\\cpp_Passorfail_problem8\\cpp_Passorfail_problem8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B386E3DF-224A-4DF9-B0CF-5E90988A8B08}|cpp_Passorfail_problem8\\cpp_Passorfail_problem8.vcxproj|solutionrelative:cpp_Passorfail_problem8\\cpp_Passorfail_problem8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_Passorfail_problem8\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "cpp_Passorfail_problem8.cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Passorfail_problem8\\cpp_Passorfail_problem8\\cpp_Passorfail_problem8.cpp",
-              "RelativeDocumentMoniker": "cpp_Passorfail_problem8\\cpp_Passorfail_problem8.cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Passorfail_problem8\\cpp_Passorfail_problem8\\cpp_Passorfail_problem8.cpp",
-              "RelativeToolTip": "cpp_Passorfail_problem8\\cpp_Passorfail_problem8.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-12T03:31:24.192Z",
-              "EditorCaption": ""
             }
           ]
         }

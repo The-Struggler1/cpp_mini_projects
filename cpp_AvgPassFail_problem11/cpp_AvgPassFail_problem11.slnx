@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp_AvgPassFail_problem11/cpp_AvgPassFail_problem11.vcxproj" />
+  <Project Path="cpp_AvgPassFail_problem11/cpp_AvgPassFail_problem11.vcxproj" Id="ba3873d4-5045-457a-b635-f72f19eaf416" />
 </Solution>

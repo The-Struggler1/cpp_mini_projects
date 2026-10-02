@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp_relational_operators/cpp_relational_operators.vcxproj" />
+  <Project Path="cpp_relational_operators/cpp_relational_operators.vcxproj" Id="83567f75-85ed-44a6-811a-436ec117d968" />
 </Solution>

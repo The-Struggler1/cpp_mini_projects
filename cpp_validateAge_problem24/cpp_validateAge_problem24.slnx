@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp_validateAge_problem24/cpp_validateAge_problem24.vcxproj" />
+  <Project Path="cpp_validateAge_problem24/cpp_validateAge_problem24.vcxproj" Id="bd7c6226-4586-42d0-ab21-abe5e49376fd" />
 </Solution>

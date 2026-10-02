@@ -1,4 +1,9 @@
 ﻿  cpp_problem43_arithmetic.cpp
-C:\Users\Omar Hamdan\source\repos\cpp_problem43_arithmetic\cpp_problem43_arithmetic\cpp_problem43_arithmetic.cpp(11,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\Omar Hamdan\source\repos\cpp_problem43_arithmetic\cpp_problem43_arithmetic\cpp_problem43_arithmetic.cpp(12,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  cpp_problem43_arithmetic.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_problem43_arithmetic\x64\Debug\cpp_problem43_arithmetic.exe
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem43_arithmetic\cpp_problem43_arithmetic\cpp_problem43_arithmetic.cpp(25,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem43_arithmetic\cpp_problem43_arithmetic\cpp_problem43_arithmetic.cpp(25,30): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem43_arithmetic\cpp_problem43_arithmetic\cpp_problem43_arithmetic.cpp(26,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem43_arithmetic\cpp_problem43_arithmetic\cpp_problem43_arithmetic.cpp(26,31): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem43_arithmetic\cpp_problem43_arithmetic\cpp_problem43_arithmetic.cpp(31,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem43_arithmetic\cpp_problem43_arithmetic\cpp_problem43_arithmetic.cpp(33,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem43_arithmetic\cpp_problem43_arithmetic\cpp_problem43_arithmetic.cpp(35,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  cpp_problem43_arithmetic.vcxproj -> C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem43_arithmetic\x64\Debug\cpp_problem43_arithmetic.exe

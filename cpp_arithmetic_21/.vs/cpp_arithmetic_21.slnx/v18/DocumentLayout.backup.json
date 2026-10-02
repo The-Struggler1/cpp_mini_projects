@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_arithmetic_21\\",
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_arithmetic_21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3377EDBD-B8BF-4085-A903-8E50ADD238BE}|cpp_arithmetic_21\\cpp_arithmetic_21.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_arithmetic_21\\cpp_arithmetic_21\\cpp_arithmetic_21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3377EDBD-B8BF-4085-A903-8E50ADD238BE}|cpp_arithmetic_21\\cpp_arithmetic_21.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_arithmetic_21\\cpp_arithmetic_21\\cpp_arithmetic_21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3377EDBD-B8BF-4085-A903-8E50ADD238BE}|cpp_arithmetic_21\\cpp_arithmetic_21.vcxproj|solutionrelative:cpp_arithmetic_21\\cpp_arithmetic_21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cpp_arithmetic_21.cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_arithmetic_21\\cpp_arithmetic_21\\cpp_arithmetic_21.cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_arithmetic_21\\cpp_arithmetic_21\\cpp_arithmetic_21.cpp",
               "RelativeDocumentMoniker": "cpp_arithmetic_21\\cpp_arithmetic_21.cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_arithmetic_21\\cpp_arithmetic_21\\cpp_arithmetic_21.cpp*",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_arithmetic_21\\cpp_arithmetic_21\\cpp_arithmetic_21.cpp*",
               "RelativeToolTip": "cpp_arithmetic_21\\cpp_arithmetic_21.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-10T03:18:05.531Z",
+              "WhenOpened": "2026-09-08T15:20:40.111Z",
               "EditorCaption": ""
             }
           ]

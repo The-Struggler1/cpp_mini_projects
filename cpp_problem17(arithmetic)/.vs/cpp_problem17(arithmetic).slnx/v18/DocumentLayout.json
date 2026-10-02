@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem17(arithmetic)\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{37FFA954-88F5-45B6-9BFF-3DFC12E5A745}|cpp_problem17(arithmetic)\\cpp_problem17(arithmetic).vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem17(arithmetic)\\cpp_problem17(arithmetic)\\cpp_problem17(arithmetic).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{37FFA954-88F5-45B6-9BFF-3DFC12E5A745}|cpp_problem17(arithmetic)\\cpp_problem17(arithmetic).vcxproj|solutionrelative:cpp_problem17(arithmetic)\\cpp_problem17(arithmetic).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem17(arithmetic)\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "cpp_problem17(arithmetic).cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem17(arithmetic)\\cpp_problem17(arithmetic)\\cpp_problem17(arithmetic).cpp",
-              "RelativeDocumentMoniker": "cpp_problem17(arithmetic)\\cpp_problem17(arithmetic).cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem17(arithmetic)\\cpp_problem17(arithmetic)\\cpp_problem17(arithmetic).cpp",
-              "RelativeToolTip": "cpp_problem17(arithmetic)\\cpp_problem17(arithmetic).cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-06T04:57:52.111Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"

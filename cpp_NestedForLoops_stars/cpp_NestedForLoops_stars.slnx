@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_NestedForLoops_stars/cpp_NestedForLoops_stars.vcxproj" Id="d265a51d-d99f-475f-95d7-8acb1f199a80" />
+</Solution>

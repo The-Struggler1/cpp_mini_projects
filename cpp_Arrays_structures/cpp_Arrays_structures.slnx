@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_Arrays_structures/cpp_Arrays_structures.vcxproj" Id="60a654ea-2c18-4cb1-9a02-31fc0b97b53b" />
+</Solution>

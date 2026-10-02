@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem40_arithmetic\\",
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem40_arithmetic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E079FEE3-6258-43C6-89F5-0DCF5F19AFA6}|cpp_problem40_arithmetic\\cpp_problem40_arithmetic.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E079FEE3-6258-43C6-89F5-0DCF5F19AFA6}|cpp_problem40_arithmetic\\cpp_problem40_arithmetic.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E079FEE3-6258-43C6-89F5-0DCF5F19AFA6}|cpp_problem40_arithmetic\\cpp_problem40_arithmetic.vcxproj|solutionrelative:cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cpp_problem40_arithmetic.cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp",
               "RelativeDocumentMoniker": "cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp*",
-              "RelativeToolTip": "cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp",
+              "RelativeToolTip": "cpp_problem40_arithmetic\\cpp_problem40_arithmetic.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-06T15:18:17.242Z",
+              "WhenOpened": "2026-09-20T11:50:57.525Z",
               "EditorCaption": ""
             }
           ]

@@ -1,9 +1,8 @@
 ﻿  cpp_TotalSales_commision_problem34.cpp
-C:\Users\Omar Hamdan\source\repos\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(10,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Omar Hamdan\source\repos\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(14,18): warning C4804: '<': unsafe use of type 'bool' in operation
-C:\Users\Omar Hamdan\source\repos\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(16,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Omar Hamdan\source\repos\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(20,18): warning C4804: '<': unsafe use of type 'bool' in operation
-C:\Users\Omar Hamdan\source\repos\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(22,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Omar Hamdan\source\repos\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(26,17): warning C4804: '<': unsafe use of type 'bool' in operation
-C:\Users\Omar Hamdan\source\repos\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(28,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  cpp_TotalSales_commision_problem34.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_TotalSales_commision_problem34\x64\Debug\cpp_TotalSales_commision_problem34.exe
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(8,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(14,10): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(18,10): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(22,10): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(26,10): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34\cpp_TotalSales_commision_problem34.cpp(39,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  cpp_TotalSales_commision_problem34.vcxproj -> C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_TotalSales_commision_problem34\x64\Debug\cpp_TotalSales_commision_problem34.exe

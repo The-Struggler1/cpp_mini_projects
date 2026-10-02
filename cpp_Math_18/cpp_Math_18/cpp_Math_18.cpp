@@ -3,16 +3,25 @@
 #include <cmath>
 #include <string>
 using namespace std;
-
-double  CircleArea(int r)  {
+void ReadData(float& r) 
+{
+	cout << "Please enter the radius of the circle: ";
+	cin >> r;
+}
+double  CircleArea(float r)  {
 	const double Pi = 3.14159;
 	return ceil(Pi * pow(r, 2));
 }
-
+void PrintData(double area)
+{
+	cout << "The area of the circle is: " << area << endl;
+}
 int main()
 {
-	int r;
+	float r;
 	const double Pi = 3.14159;
-	cin >> r;
-	cout << "Area of circle is : " << CircleArea(r) << endl;
-}
+	ReadData(r);
+	PrintData(CircleArea(r));
+	return 0;
+	}
+	

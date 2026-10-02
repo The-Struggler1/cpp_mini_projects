@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp_Passorfail_problem8/cpp_Passorfail_problem8.vcxproj" />
+  <Project Path="../../../../../../source/repos/C++ mini projects/cpp_Passorfail_problem8/cpp_Passorfail_problem8/cpp_Passorfail_problem8.vcxproj" Id="b386e3df-224a-4df9-b0cf-5e90988a8b08" />
 </Solution>

@@ -1,3 +1,5 @@
 ﻿  cpp_problem31_arithmetic.cpp
-C:\Users\Omar Hamdan\source\repos\cpp_problem31_arithmetic\cpp_problem31_arithmetic\cpp_problem31_arithmetic.cpp(8,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  cpp_problem31_arithmetic.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_problem31_arithmetic\x64\Debug\cpp_problem31_arithmetic.exe
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem31_arithmetic\cpp_problem31_arithmetic\cpp_problem31_arithmetic.cpp(15,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem31_arithmetic\cpp_problem31_arithmetic\cpp_problem31_arithmetic.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem31_arithmetic\cpp_problem31_arithmetic\cpp_problem31_arithmetic.cpp(17,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  cpp_problem31_arithmetic.vcxproj -> C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem31_arithmetic\x64\Debug\cpp_problem31_arithmetic.exe

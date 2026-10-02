@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_for_loops_problem28/cpp_for_loops_problem28.vcxproj" Id="72dd61fb-483a-4d7d-b73b-8b24784d622d" />
+</Solution>

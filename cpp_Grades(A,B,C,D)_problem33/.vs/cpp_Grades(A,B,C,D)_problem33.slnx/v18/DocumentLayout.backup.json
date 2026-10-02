@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Grades(A,B,C,D)_problem33\\",
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_Grades(A,B,C,D)_problem33\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96C8B0BB-D0CC-45B8-8A7F-D8734A0FD998}|cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{96C8B0BB-D0CC-45B8-8A7F-D8734A0FD998}|cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{96C8B0BB-D0CC-45B8-8A7F-D8734A0FD998}|cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.vcxproj|solutionrelative:cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cpp_Grades(A,B,C,D)_problem33.cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp",
               "RelativeDocumentMoniker": "cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp",
-              "RelativeToolTip": "cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp*",
+              "RelativeToolTip": "cpp_Grades(A,B,C,D)_problem33\\cpp_Grades(A,B,C,D)_problem33.cpp*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-12T11:25:35.383Z",
+              "WhenOpened": "2026-09-13T07:01:54.413Z",
               "EditorCaption": ""
             }
           ]

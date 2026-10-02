@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp_problem10(arithmetic)/cpp_problem10(arithmetic).vcxproj" />
+  <Project Path="cpp_problem10(arithmetic)/cpp_problem10(arithmetic).vcxproj" Id="44205249-8de6-495a-a8b8-a6783c753d44" />
 </Solution>

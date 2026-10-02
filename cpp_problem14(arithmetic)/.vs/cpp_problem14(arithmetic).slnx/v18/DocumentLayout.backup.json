@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem14(arithmetic)\\",
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem14(arithmetic)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41A1ADB2-946D-429F-98E4-104A16E7F6D7}|cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{41A1ADB2-946D-429F-98E4-104A16E7F6D7}|cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{41A1ADB2-946D-429F-98E4-104A16E7F6D7}|cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).vcxproj|solutionrelative:cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cpp_problem14(arithmetic).cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).cpp",
               "RelativeDocumentMoniker": "cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).cpp*",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).cpp*",
               "RelativeToolTip": "cpp_problem14(arithmetic)\\cpp_problem14(arithmetic).cpp*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-10T09:03:02.59Z",
+              "WhenOpened": "2026-09-06T11:14:18.218Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,4 @@
 ﻿  cpp_problem40_arithmetic.cpp
-C:\Users\Omar Hamdan\source\repos\cpp_problem40_arithmetic\cpp_problem40_arithmetic\cpp_problem40_arithmetic.cpp(7,21): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Omar Hamdan\source\repos\cpp_problem40_arithmetic\cpp_problem40_arithmetic\cpp_problem40_arithmetic.cpp(7,39): warning C4305: 'initializing': truncation from 'double' to 'float'
-  cpp_problem40_arithmetic.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_problem40_arithmetic\x64\Debug\cpp_problem40_arithmetic.exe
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem40_arithmetic\cpp_problem40_arithmetic\cpp_problem40_arithmetic.cpp(17,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem40_arithmetic\cpp_problem40_arithmetic\cpp_problem40_arithmetic.cpp(18,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cpp_problem40_arithmetic.vcxproj -> C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_problem40_arithmetic\x64\Debug\cpp_problem40_arithmetic.exe

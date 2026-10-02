@@ -1,38 +1,42 @@
 #include <iostream>
 using namespace std;
-int main()
+int ReadTotalSales()
 {
-	float Total_sales, commision;
+	float Total_sales;
 	cout << "Please enter Total sales : \n";
 	cin >> Total_sales;
+	return Total_sales;
+}
+float GetCommisionPercentage(float Total_sales)
+{
 	if (Total_sales == 1000000)
 	{
-		commision = 0.01 * Total_sales;
-		cout << "*****************\n";
-		cout << commision << endl;
+		return 0.01;
 	}
-	else if (500000 <= Total_sales < 1000000)
+	else if (500000 <= Total_sales && Total_sales < 1000000)
 	{
-		commision = 0.02 * Total_sales;
-		cout << "*****************\n";
-		cout << commision << endl;
+		return 0.02;
 	}
-	else if (100000 <= Total_sales < 500000)
+	else if (100000 <= Total_sales && Total_sales < 500000)
 	{
-		commision = 0.03 * Total_sales;
-		cout << "*****************\n";
-		cout << commision << endl;
+		return 0.03;
 	}
-	else if (50000 <= Total_sales < 100000)
+	else if (50000 <= Total_sales && Total_sales < 100000)
 	{
-		commision = 0.05 * Total_sales;
-		cout << "*****************\n";
-		cout << commision << endl;
+		return 0.05;
 	}
 	else
 	{
-		commision = 0 * Total_sales;
-		cout << "*****************\n";
-		cout << commision << endl;
+		return 0;
 	}
+}
+float CalculateCommision(float Total_sales)
+{
+	return GetCommisionPercentage(Total_sales) * Total_sales;
+}
+int main()
+{
+	float Total_sales = ReadTotalSales();
+	cout << endl << "Commiion Percentage : " << GetCommisionPercentage(Total_sales) * 100 << "%" << endl;
+	cout << "Calculated Commission : " << CalculateCommision(Total_sales) << endl;
 }

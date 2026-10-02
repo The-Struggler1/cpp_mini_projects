@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_continueStatment/cpp_continueStatment.vcxproj" Id="df4e5910-6bba-4f97-88d5-3ce4c816b846" />
+</Solution>

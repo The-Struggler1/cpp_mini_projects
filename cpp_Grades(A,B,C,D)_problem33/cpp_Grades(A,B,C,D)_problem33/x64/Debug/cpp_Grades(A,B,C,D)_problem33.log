@@ -1,13 +1,2 @@
 ﻿  cpp_Grades(A,B,C,D)_problem33.cpp
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(10,9): warning C4804: '<=': unsafe use of type 'bool' in operation
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(14,14): warning C4804: '<': unsafe use of type 'bool' in operation
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(18,14): warning C4804: '<': unsafe use of type 'bool' in operation
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(22,14): warning C4804: '<': unsafe use of type 'bool' in operation
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(26,14): warning C4804: '<': unsafe use of type 'bool' in operation
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(7,9): warning C4101: 'B': unreferenced local variable
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(7,21): warning C4101: 'F': unreferenced local variable
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(7,18): warning C4101: 'E': unreferenced local variable
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(7,15): warning C4101: 'D': unreferenced local variable
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(7,6): warning C4101: 'A': unreferenced local variable
-C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33\cpp_Grades(A,B,C,D)_problem33.cpp(7,12): warning C4101: 'C': unreferenced local variable
-  cpp_Grades(A,B,C,D)_problem33.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_Grades(A,B,C,D)_problem33\x64\Debug\cpp_Grades(A,B,C,D)_problem33.exe
+  cpp_Grades(A,B,C,D)_problem33.vcxproj -> C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_Grades(A,B,C,D)_problem33\x64\Debug\cpp_Grades(A,B,C,D)_problem33.exe

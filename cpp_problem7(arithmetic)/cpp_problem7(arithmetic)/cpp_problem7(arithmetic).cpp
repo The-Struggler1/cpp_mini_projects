@@ -1,23 +1,27 @@
 
 
 #include <iostream>
+#include <string>
 using namespace std;
-
+int ReadNumber()
+{
+	int Num;
+	cout << "Enter a number: ";
+	cin >> Num;
+	return Num;
+}
+float Half(int Num)
+{
+	return (float)Num / 2;
+}
+void PrintHalf(int Num)
+{
+	string result = "Half of the number " + to_string(Num) + " is " + to_string(Half(Num));
+	cout << result << endl;
+}
 int main()
 {
-	float A;
-	cout << "Enter a number: ";
-	cin >> A;
-	cout << "half of the number A equals to" << A / 2 << endl;
-
-
-
-
-
-
-
-
-
+	PrintHalf(ReadNumber());
 	return 0;
 }
 

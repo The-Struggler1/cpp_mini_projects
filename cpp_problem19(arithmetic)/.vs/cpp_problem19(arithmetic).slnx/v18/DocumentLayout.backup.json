@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem19(arithmetic)\\",
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem19(arithmetic)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F0491D2-56CC-4FE8-9351-70A4B1EDF86D}|cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0F0491D2-56CC-4FE8-9351-70A4B1EDF86D}|cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0F0491D2-56CC-4FE8-9351-70A4B1EDF86D}|cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).vcxproj|solutionrelative:cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cpp_problem19(arithmetic).cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).cpp",
               "RelativeDocumentMoniker": "cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).cpp*",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).cpp*",
               "RelativeToolTip": "cpp_problem19(arithmetic)\\cpp_problem19(arithmetic).cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-09T15:17:42.783Z",
+              "WhenOpened": "2026-09-07T11:56:51.688Z",
               "EditorCaption": ""
             }
           ]

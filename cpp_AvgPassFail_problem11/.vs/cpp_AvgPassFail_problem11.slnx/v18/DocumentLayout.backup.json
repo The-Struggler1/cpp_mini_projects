@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_AvgPassFail_problem11\\",
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_AvgPassFail_problem11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA3873D4-5045-457A-B635-F72F19EAF416}|cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BA3873D4-5045-457A-B635-F72F19EAF416}|cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BA3873D4-5045-457A-B635-F72F19EAF416}|cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.vcxproj|solutionrelative:cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cpp_AvgPassFail_problem11.cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp",
               "RelativeDocumentMoniker": "cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp*",
-              "RelativeToolTip": "cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp",
+              "RelativeToolTip": "cpp_AvgPassFail_problem11\\cpp_AvgPassFail_problem11.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-12T03:42:11.107Z",
+              "WhenOpened": "2026-09-06T10:43:08.232Z",
               "EditorCaption": ""
             }
           ]

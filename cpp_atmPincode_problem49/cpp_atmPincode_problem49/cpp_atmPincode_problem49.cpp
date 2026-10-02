@@ -1,20 +1,39 @@
 
 #include <iostream>
 using namespace std;
+string ReadPinCode()
+{
+	string PinCode;
+	cout << "Please enter your PIN Code : \n";
+	cin >> PinCode;
+	return PinCode;
+}
+bool Login()
+{
+	string PinCode;
+	do
+	{
+		PinCode = ReadPinCode();
+		if (PinCode == "1234")
+		{
+			return 1;
+		}
+		else
+		{
+			cout << "\nWrong PIN\n";
+			system("color 4F");
+		}
+	} while (PinCode != "1234");
+
+	return 0;
+}
 int main()
 {
-	int Atm_Pin_code = 1234, User_Balance = 7500;
-		cout << "Please enter Atm Pin code:\n";
-	cin >> Atm_Pin_code;
-	if (Atm_Pin_code == 1234)
+	if (Login())
 	{
-		cout << "*****************\n";
-		cout << User_Balance << endl;
-	}
-	else
-	{
-		cout << "*****************\n";
-		cout << "Wrong Pin\n";
-	}
+		system("color 2F");
+		cout << "\nYour account Balance is" << 7500 << '\n';
+	};
+	return 0;
 }
 

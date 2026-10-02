@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_problem43_arithmetic\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem43_arithmetic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D18789-2A52-43CF-858E-087662498950}|cpp_problem43_arithmetic\\cpp_problem43_arithmetic.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem43_arithmetic\\cpp_problem43_arithmetic\\cpp_problem43_arithmetic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8D18789-2A52-43CF-858E-087662498950}|cpp_problem43_arithmetic\\cpp_problem43_arithmetic.vcxproj|solutionrelative:cpp_problem43_arithmetic\\cpp_problem43_arithmetic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpp_problem43_arithmetic.cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem43_arithmetic\\cpp_problem43_arithmetic\\cpp_problem43_arithmetic.cpp",
+              "RelativeDocumentMoniker": "cpp_problem43_arithmetic\\cpp_problem43_arithmetic.cpp",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_problem43_arithmetic\\cpp_problem43_arithmetic\\cpp_problem43_arithmetic.cpp",
+              "RelativeToolTip": "cpp_problem43_arithmetic\\cpp_problem43_arithmetic.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-29T11:52:20.509Z",
+              "EditorCaption": ""
             }
           ]
         }

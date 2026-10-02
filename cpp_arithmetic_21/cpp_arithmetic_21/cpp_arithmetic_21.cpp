@@ -4,18 +4,25 @@
 #include <cmath>
 #include <string>
 using namespace std;
-int CircleArea3(int L) {
-	
+float ReadData()
+{
+	float length;
+	cout << "Enter the length of the circle: ";
+	cin >> length;
+	return length;
+}
+float CircleArea(float Length)
+{
 	float Pi = 3.14;
-
-	return ceil((pow(L, 2) / (4 * Pi)));
+	float Area = ceil((pow(Length, 2) / (4 * Pi)));
+	return Area;
 };
+void DisplayData(float Area)
+{
+	cout << "The area of the circle is: " << Area << endl;
+}
 
 int main() {
-	int L;
-	cin >> L;
-
-	cout << CircleArea3( L) << endl;
-	return 0;
+	DisplayData(CircleArea(ReadData()));
 }
 

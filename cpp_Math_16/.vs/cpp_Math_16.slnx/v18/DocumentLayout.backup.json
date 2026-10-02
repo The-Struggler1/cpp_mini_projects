@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_16\\",
+  "WorkspaceRootPath": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_Math_16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{149E7652-FDD4-4BA9-9FAC-52B5C1CB4A36}|cpp_Math_16\\cpp_Math_16.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_16\\cpp_Math_16\\cpp_Math_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{149E7652-FDD4-4BA9-9FAC-52B5C1CB4A36}|cpp_Math_16\\cpp_Math_16.vcxproj|C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_Math_16\\cpp_Math_16\\cpp_Math_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{149E7652-FDD4-4BA9-9FAC-52B5C1CB4A36}|cpp_Math_16\\cpp_Math_16.vcxproj|solutionrelative:cpp_Math_16\\cpp_Math_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cpp_Math_16.cpp",
-              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_16\\cpp_Math_16\\cpp_Math_16.cpp",
+              "DocumentMoniker": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_Math_16\\cpp_Math_16\\cpp_Math_16.cpp",
               "RelativeDocumentMoniker": "cpp_Math_16\\cpp_Math_16.cpp",
-              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\cpp_Math_16\\cpp_Math_16\\cpp_Math_16.cpp*",
-              "RelativeToolTip": "cpp_Math_16\\cpp_Math_16.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Omar Hamdan\\source\\repos\\C\u002B\u002B mini projects\\cpp_Math_16\\cpp_Math_16\\cpp_Math_16.cpp",
+              "RelativeToolTip": "cpp_Math_16\\cpp_Math_16.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-07T20:10:23.486Z",
               "EditorCaption": ""

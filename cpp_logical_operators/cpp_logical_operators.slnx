@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp_logical_operators/cpp_logical_operators.vcxproj" />
+  <Project Path="cpp_logical_operators/cpp_logical_operators.vcxproj" Id="bbc1e94f-5f28-482f-9bb5-07d1fd6188d8" />
 </Solution>

@@ -1,2 +1,3 @@
 ﻿  cpp_Math_16.cpp
-  cpp_Math_16.vcxproj -> C:\Users\Omar Hamdan\source\repos\cpp_Math_16\x64\Debug\cpp_Math_16.exe
+C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_Math_16\cpp_Math_16\cpp_Math_16.cpp(13,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  cpp_Math_16.vcxproj -> C:\Users\Omar Hamdan\source\repos\C++ mini projects\cpp_Math_16\x64\Debug\cpp_Math_16.exe
